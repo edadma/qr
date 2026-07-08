@@ -4,6 +4,8 @@
 [![Last Commit](https://img.shields.io/github/last-commit/edadma/qr)](https://github.com/edadma/qr/commits)
 ![GitHub](https://img.shields.io/github/license/edadma/qr)
 ![Scala Version](https://img.shields.io/badge/Scala-3.8.4-blue.svg)
+![ScalaJS Version](https://img.shields.io/badge/Scala.js-1.21.0-blue.svg)
+![Scala Native Version](https://img.shields.io/badge/Scala_Native-0.5.12-blue.svg)
 
 A pure-Scala, dependency-free **QR Code generator**, cross-published for the JVM, JavaScript (Scala.js), and Native (Scala Native).
 
